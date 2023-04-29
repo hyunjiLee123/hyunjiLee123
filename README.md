@@ -17,9 +17,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bm4bw00)](https://solved.ac/bm4bw00)
 
-<img src="http://mazandi.herokuapp.com/api?handle={bm4bw00}&theme=warm"/>
-</
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 
