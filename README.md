@@ -10,9 +10,6 @@
 ### ✏️ Studying ✏️
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-00008B?style=for-the-badge&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
-
-
 ### 📘 beakjoon 📘
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bm4bw00)](https://solved.ac/bm4bw00)
