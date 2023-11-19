@@ -10,10 +10,11 @@
 <br/>
 <a href="https://blog.naver.com/bm4bw00"><img src="https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=Blog&logoColor=white"/></a>
 
+</div>
 <br/>
 <br/>
 
-### ✏️ Studying ✏️
+<div align="center">### ✏️ Studying ✏️</div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
 
 ### 🧑‍🎓 SSWU Undergraduate Internship 🧑‍🎓
