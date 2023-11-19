@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Hyunji%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ### 👋 HyunjiLee 👋
-<a href="https://blog.naver.com/bm4bw00"><img src="https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=Blog&logoColor=white"/></a> <a href="https://https://hylll-s-note.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:20201053@sungshin.ac.kr)
+<a href="https://blog.naver.com/bm4bw00"><img src="https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=Blog&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:20201053@sungshin.ac.kr)
 
 
 
