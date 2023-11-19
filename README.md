@@ -5,11 +5,14 @@
 ### 👋 HyunjiLee 👋
 
 😄 Hi. I'm HyunJi Lee.
+<br/>
 🌱 I wanna be a AI Engineer & C++ Developer.
 
+<br/>
 <a href="https://blog.naver.com/bm4bw00"><img src="https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=Blog&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:20201053@sungshin.ac.kr)
 
-
+<br/>
+<br/>
 
 ### ✏️ Studying ✏️
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
