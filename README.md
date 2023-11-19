@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=ffffff"/>
 
 ### 🧑‍🎓 SSWU Undergraduate Internship 🧑‍🎓
-▪️ Occlusion 상황에서의 얼굴 검출 향상을 위한 YOLOv5 기반 신경망
+▪️ Occlusion 상황에서의 얼굴 검출 향상을 위한 YOLOv5 기반 신경망<br/>
 ▪️ nxn Frequency Transform과 Random Erasing 기법을 활용한 신경망(ing)
 
 ### ✨ Project ✨
