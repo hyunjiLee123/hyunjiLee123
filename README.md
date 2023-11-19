@@ -4,8 +4,7 @@
 
 ### 👋 HyunjiLee 👋
 
-😄 Hi. I'm HyunJi Lee.
-<br/>
+😄 Hi. I'm HyunJi Lee.<br/>
 🌱 I wanna be a AI Engineer & C++ Developer.
 
 <br/>
