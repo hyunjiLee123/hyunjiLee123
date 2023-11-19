@@ -18,7 +18,8 @@
 ▪️ nxn Frequency Transform과 Random Erasing 기법을 활용한 신경망(ing)
 
 ### ✨ Project ✨
-
+▪️ 2022 GDSC KR Winter Hack(https://github.com/nohorang-horangteam)<br/>
+▪️ SSWU software competition(https://github.com/SujungVillage) ✨first place team
 
 ### 👩‍💻 Work 👩‍💻
 I worked at 'RT solutions Inc.' in AI research lab.
