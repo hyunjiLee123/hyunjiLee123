@@ -5,7 +5,7 @@
 ### 👋 HyunjiLee 👋
 
 😄 Hi. I'm HyunJi Lee.<br/>
-🌱 I wanna be a AI Engineer & C++ Developer.
+🌱 I wanna be a AI Engineer & Python Developer.
 
 <a href="https://blog.naver.com/bm4bw00"><img src="https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=Blog&logoColor=white"/></a>
 
