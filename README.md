@@ -15,7 +15,7 @@
 
 ### 🧑‍🎓 SSWU Undergraduate Internship 🧑‍🎓
 ▪️ Occlusion 상황에서의 얼굴 검출 향상을 위한 YOLOv5 기반 신경망_[[Code]](https://github.com/hyunjiLee123/yolov5-face-occlusion-project)<br/>
-▪️ nxn Frequency Transform과 Random Erasing 기법을 활용한 신경망_[[Code]](https://github.com/hyunjiLee123/Random-Erasing-FrequencyTransform)[[paper]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003125682)
+▪️ nxn Frequency Transform과 Random Erasing 기법을 활용한 신경망_[[Code]](https://github.com/hyunjiLee123/Random-Erasing-FrequencyTransform)[[paper]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003125682)<br/>
 ▪️ FreqTune 성능 향상_ing
 
 ### ✨ Project ✨
