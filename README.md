@@ -18,6 +18,9 @@
 ▪️ 초해상도를 위한 Depthwise 컨볼루션 활용 영역별 컨볼루션 신경망[[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12272642)<br/>
 ▪️ Frequency mix_ing
 
+### 🧑‍🎓 Korea University Internship 🧑‍🎓
+
+
 ### ✨ Project ✨
 ▪️ [2022 GDSC KR Winter Hack](https://github.com/nohorang-horangteam)<br/>
 ▪️ [SSWU software competition](https://github.com/SujungVillage) ✨first place team
