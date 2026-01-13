@@ -16,7 +16,7 @@
 ▪️ Multi-Block을 활용한 Random Erasing in the Frequency domain_[[Code]](https://github.com/hyunjiLee123/Random-Erasing-FrequencyTransform)[[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11937364)<br/>
 ▪️ 손상 견고성을 위한 중간 영역 활용 주파수 성분 변형의 성능 향상 기법_[[Code]](https://github.com/hyunjiLee123/FCM-MRT)[[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12246295)<br/>
 ▪️ 초해상도를 위한 Depthwise 컨볼루션 활용 영역별 컨볼루션 신경망[[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12272642)<br/>
-▪️ Frequency mix_ing
+▪️ Frequency mix_ing[[code]](https://github.com/hyunjiLee123/Frequency-Mix)
 
 ### 🧑‍🎓 Korea University Internship 🧑‍🎓
 
